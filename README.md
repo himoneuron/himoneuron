@@ -21,11 +21,14 @@ I am a **Full Stack Developer with 5+ years of experience building scalable clou
 I specialize in designing **microservices architectures, REST APIs, and high-performance systems** using **Next.js, Spring Boot, Kafka, and AWS**.
 
 ---
+
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himoneuron&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=himoneuron&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
+
+
 
 # 🏔 GitHub Contribution Skyline
 
