@@ -1,4 +1,10 @@
-<h1>Hi 👋, I'm Himanshu Adhikari</h1>
+# Hi 👋 I'm Himanshu Adhikari
+
+![](https://komarev.com/ghpvc/?username=himoneuron&color=blue)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Developer;Microservices+Architect;AWS+Cloud+Engineer;Kafka+Event+Systems)
+
+![snake gif](https://github.com/himoneuron/Snake.github/blob/output/github-contribution-grid-snake.svg)
 <h3>Senior Full Stack Developer | Next.js | Java Spring Boot | AWS | Kafka | Microservices | 5+ Years Experience</h3>
 
 <p>
