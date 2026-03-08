@@ -22,11 +22,6 @@ I specialize in designing **microservices architectures, REST APIs, and high-per
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himoneuron&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
 
 
 
