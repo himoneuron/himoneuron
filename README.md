@@ -1,29 +1,146 @@
-<h1>Hi 👋, I'm Hi, my name is Himanshu Adhikari</h1>
-<p>A passionate backend developer from Delhi . I have built many industry grade projects from scratch and am armed with many technological skills useful for tech projects.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/nividagrawal20_bharatinnovates-startupmahakumbh-inclusiveinnovation-ugcPost-7315619913723711489-mTqP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOQTmcBDj5sPuH3UOHskc2lf3PuxiRoeH8">Check the mahakumbh out </a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/learnwithhimmo/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/himo__24" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@radha-himo" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himoneuron&show_icons=true&locale=en" alt="himoneuron" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himoneuron&" alt="himoneuron" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=himoneuron&show_icons=true&locale=en&layout=compact" alt="himoneuron" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himoneuron" alt="himoneuron" /></a></p>
+<h1>Hi 👋, I'm Himanshu Adhikari</h1>
+<h3>Senior Full Stack Developer | Next.js | Java Spring Boot | AWS | Kafka | Microservices | 5+ Years Experience</h3>
 
+<p>
+I am a Full Stack Developer with 5+ years of experience building scalable cloud-native applications. 
+I specialize in designing microservices architectures, REST APIs, and high-performance web applications 
+using Next.js, Spring Boot, Kafka, and AWS.
+</p>
+
+---
+
+<h2>🚀 Tech Stack</h2>
+
+<h3>Frontend</h3>
+<p>
+Next.js • React.js • TypeScript • JavaScript • HTML5 • CSS3
+</p>
+
+<h3>Backend</h3>
+<p>
+Java • Spring Boot • Spring MVC • REST APIs • Microservices
+</p>
+
+<h3>Cloud & DevOps</h3>
+<p>
+AWS (EC2, S3, RDS, IAM, CloudWatch) • Docker • Terraform • CI/CD • GitHub Actions
+</p>
+
+<h3>Architecture</h3>
+<p>
+Microservices Architecture • Event Driven Systems • Apache Kafka • Server Side Rendering • Secure API Design
+</p>
+
+---
+
+<h2>🚀 Languages and Tools I Use</h2>
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42"/>
+
+</p>
+
+---
+
+<h2>🏗 Key Projects</h2>
+
+<h3>💳 Secure Payment Processing System</h3>
+
+• Built secure REST APIs for payment transactions  
+• Implemented JWT authentication and role-based authorization  
+• Deployed services on AWS EC2 and RDS  
+• Automated infrastructure using Terraform and CI/CD  
+
+Tech: Next.js • Spring Boot • Kafka • PostgreSQL • AWS
+
+---
+
+<h3>🏨 StayEase – Hotel Booking Intelligence API</h3>
+
+• Built SSR optimized UI using Next.js  
+• Developed booking and availability APIs  
+• Integrated AWS S3 and RDS  
+• Implemented CI/CD pipelines  
+
+Tech: Next.js • Spring Boot • PostgreSQL • AWS • GitHub Actions
+
+---
+
+<h3>📊 RentRead – Rental Recommendation Engine</h3>
+
+• Designed microservices architecture  
+• Built scalable backend services  
+• Containerized applications using Docker  
+• Managed AWS infrastructure with Terraform  
+
+Tech: Next.js • Spring Boot • Kafka • Docker • AWS
+
+---
+
+<h2>⚙ DevOps</h2>
+
+• Docker containerization  
+• Terraform infrastructure provisioning  
+• CI/CD pipelines  
+• GitHub Actions automation  
+• AWS cloud deployment
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=himoneuron&show_icons=true&locale=en"/>
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himoneuron"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himoneuron&show_icons=true&layout=compact"/>
+</p>
+
+---
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=himoneuron"/>
+</p>
+
+---
+
+<h2>⚡ Where to find me</h2>
+
+<p>
+
+<a href="https://www.linkedin.com/in/learnwithhimmo/">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"/>
+</a>
+
+<a href="https://www.instagram.com/himo__24">
+<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369"/>
+</a>
+
+<a href="https://www.youtube.com/@radha-himo">
+<img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000"/>
+</a>
+
+</p>
+
+---
+
+⭐ Fun Fact: I enjoy designing scalable distributed systems and building high-performance cloud applications.
