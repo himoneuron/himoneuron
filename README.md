@@ -1,12 +1,17 @@
-# Hi 👋 Friends call me himo 
+# Hi 👋 Friends call me Himo
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/himoneuron/himoneuron/main/ikmage.png" width="200" style="border-radius:50%">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Next.js+%7C+Spring+Boot+%7C+AWS;Microservices+Architect;Kafka+Event+Driven+Systems"/>
 </p>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Next.js+%7C+Spring+Boot+%7C+AWS;Microservices+Architect;Kafka+Event+Driven+Systems)
 
-![](https://komarev.com/ghpvc/?username=himoneuron&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=himoneuron&color=blue"/>
+</p>
 
-![snake gif](https://raw.githubusercontent.com/himoneuron/Snake.github/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/himoneuron/Snake.github/output/github-contribution-grid-snake.svg"/>
+</p>
+
 ---
 
 ## 🚀 Senior Full Stack Developer
