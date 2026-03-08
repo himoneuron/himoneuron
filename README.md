@@ -1,14 +1,14 @@
-# Hi 👋 I'm Himanshu Adhikari
+# Hi 👋 Friends call me himo 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;Next.js+%7C+Spring+Boot+%7C+AWS;Microservices+Architect;Kafka+Event+Driven+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Next.js+%7C+Spring+Boot+%7C+AWS;Microservices+Architect;Kafka+Event+Driven+Systems)
 
 ![](https://komarev.com/ghpvc/?username=himoneuron&color=blue)
 
-![snake gif](https://raw.githubusercontent.com/himoneuron/Snake.github/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/himoneuron/Snake.github/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### 🚀 Senior Full Stack Developer  
+## 🚀 Senior Full Stack Developer
 **Next.js | Java Spring Boot | AWS | Kafka | Microservices | 5+ Years Experience**
 
 I am a **Full Stack Developer with 5+ years of experience building scalable cloud-native applications.**  
@@ -16,15 +16,23 @@ I specialize in designing **microservices architectures, REST APIs, and high-per
 
 ---
 
-# 🏔 3D Contribution Skyline
+# 🏔 GitHub Contribution Skyline
 
-![3D GitHub Skyline](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himoneuron&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himoneuron&theme=tokyonight)
 
 ---
 
 # 📈 GitHub Activity Graph
 
-![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himoneuron&theme=tokyo-night)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himoneuron&theme=tokyo-night)
+
+---
+
+# 📊 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himoneuron&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himoneuron&theme=tokyonight)
 
 ---
 
@@ -37,7 +45,7 @@ Next.js • React.js • TypeScript • JavaScript • HTML5 • CSS3
 Java • Spring Boot • Spring MVC • REST APIs • Microservices  
 
 ### Cloud & DevOps
-AWS (EC2, S3, RDS, IAM, CloudWatch) • Docker • Terraform • CI/CD • GitHub Actions  
+AWS • Docker • Terraform • CI/CD • GitHub Actions  
 
 ### Architecture
 Microservices Architecture • Event Driven Systems • Apache Kafka • Server Side Rendering • Secure API Design  
@@ -47,6 +55,7 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 # 🧰 Languages and Tools
 
 <p>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
@@ -59,7 +68,16 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
+
 </p>
+
+---
+
+# 🔭 Currently Working On
+
+• Scaling **microservices architecture with Spring Boot & Kafka**  
+• Automating **cloud infrastructure using Terraform**  
+• Building **high-performance SSR applications with Next.js**
 
 ---
 
@@ -71,7 +89,7 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 • Deployed services on AWS EC2 and RDS  
 • Automated infrastructure using Terraform and CI/CD  
 
-**Tech:** Next.js • Spring Boot • Kafka • PostgreSQL • AWS  
+**Tech:** Next.js • Spring Boot • Kafka • PostgreSQL • AWS
 
 ---
 
@@ -81,7 +99,7 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 • Integrated AWS S3 and RDS  
 • Implemented CI/CD pipelines  
 
-**Tech:** Next.js • Spring Boot • PostgreSQL • AWS • GitHub Actions  
+**Tech:** Next.js • Spring Boot • PostgreSQL • AWS • GitHub Actions
 
 ---
 
@@ -91,7 +109,7 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 • Containerized applications using Docker  
 • Managed AWS infrastructure with Terraform  
 
-**Tech:** Next.js • Spring Boot • Kafka • Docker • AWS  
+**Tech:** Next.js • Spring Boot • Kafka • Docker • AWS
 
 ---
 
@@ -123,15 +141,11 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 
 # 🏆 GitHub Trophies
 
-<p>
 <img src="https://github-profile-trophy.vercel.app/?username=himoneuron&theme=algolia"/>
-</p>
 
 ---
 
 # ⚡ Connect With Me
-
-<p>
 
 <a href="https://www.linkedin.com/in/learnwithhimmo/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -144,8 +158,6 @@ Microservices Architecture • Event Driven Systems • Apache Kafka • Server 
 <a href="https://www.youtube.com/@radha-himo">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
 </a>
-
-</p>
 
 ---
 
