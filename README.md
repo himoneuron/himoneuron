@@ -79,6 +79,11 @@ Currently focused on delivering **high-quality, cost-efficient, and schedule-dri
 • Vendor & Subcontractor Coordination
 • Cross-functional Team Leadership
 
+# 🎓 Certifications & Learning
+
+• Project Management Professional (PMP) – In Progress
+• Project Scheduling & Cost Control (Self-Learning)
+• Power Delivery & Utility Project Fundamentals (Learning)
 
 ### Frontend
 Next.js • React.js • TypeScript • JavaScript • HTML5 • CSS3  
