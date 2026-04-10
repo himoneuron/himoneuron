@@ -13,12 +13,18 @@
 </p>
 
 ---
+# Hi 👋 Friends call me Himo
 
-## 🚀 Senior Full Stack Developer
-**Next.js | Java Spring Boot | AWS | Kafka | Microservices | 5+ Years Experience**
+## 🚀 Associate Project Manager | Power Delivery & Infrastructure
 
-I am a **Full Stack Developer with 5+ years of experience building scalable cloud-native applications.**  
-I specialize in designing **microservices architectures, REST APIs, and high-performance systems** using **Next.js, Spring Boot, Kafka, and AWS**.
+**Project Management | Scheduling | Cost Control | Risk Management | Stakeholder Coordination**
+
+I am an **Associate Project Manager with 5+ years of experience** supporting project delivery across planning, execution, monitoring, and closeout phases.
+
+With a strong technical background in software systems, I bring a structured approach to **project lifecycle management, cost estimation, risk mitigation, and cross-functional coordination**.
+
+Currently focused on delivering **high-quality, cost-efficient, and schedule-driven projects aligned with business and client objectives.**
+
 
 ---
 
@@ -46,6 +52,33 @@ I specialize in designing **microservices architectures, REST APIs, and high-per
 ---
 
 # 🚀 Tech Stack
+
+# 📊 Project Management Expertise
+
+### 🏗 Project Lifecycle
+
+• Proposal → Planning → Execution → Monitoring → Closeout
+• Work Breakdown Structure (WBS)
+• Scheduling (Gantt Charts, MS Project)
+
+### 💰 Financial & Cost Control
+
+• Budgeting & Forecasting
+• Cost Estimation
+• Earned Value Tracking
+
+### ⚠ Risk & Quality
+
+• Risk Identification & Mitigation
+• QA/QC Processes
+• Compliance & Safety Standards
+
+### 🤝 Coordination
+
+• Stakeholder Management
+• Vendor & Subcontractor Coordination
+• Cross-functional Team Leadership
+
 
 ### Frontend
 Next.js • React.js • TypeScript • JavaScript • HTML5 • CSS3  
